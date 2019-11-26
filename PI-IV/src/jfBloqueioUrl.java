@@ -28,7 +28,7 @@ import javax.swing.SwingConstants;
 import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-
+//teste
 public class jfBloqueioUrl extends JFrame {
 
 	private JPanel contentPane;
